@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Joachim, i am 25 years old and new to coding
-- My end goal of learning code will be to work as a full stack developer, i will dedicate many years of my life to reach this goal
-- I’m currently learning to code in html, css and javascript
-  
-- ⚡ Fun fact: my guilty pleasure food is lasagna with garlic bread
+My name is Joachim, i am 26 years old and currently studying multimediadesign with a specific focus on frontend development. 
+I started coding back in spring 2024, and fell in love with it instantly. I currently have multiple projects going, feel free to check them out. 
+
+
 
 <!---
 Dontosquare/Dontosquare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
