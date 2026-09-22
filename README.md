@@ -1,5 +1,4 @@
-My name is Joachim, i am 26 years old and currently studying multimediadesign with a specific focus on frontend development. 
-I started coding back in spring 2024, and fell in love with it instantly. I currently have multiple projects going, feel free to check them out. 
+Frontend Developer & Multimedia Designer. Passionate about building functional, well-designed web applications since early 2024. Check out my active projects and repositories below.
 
 
 
