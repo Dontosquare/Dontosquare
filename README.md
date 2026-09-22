@@ -1,4 +1,4 @@
-Frontend Developer & Multimedia Designer. Passionate about building functional, well-designed web applications since early 2024. Check out my active projects and repositories below.
+Frontend Developer & Multimedia Designer. Passionate about building functional, well-designed web applications since early 2024. 
 
 
 
