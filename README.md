@@ -1,8 +1,17 @@
-Frontend Developer & Multimedia Designer. Passionate about building functional, well-designed web applications since early 2024. 
+# Hi, I'm Joachim! 👋
 
+I'm a 27-year-old Computer Science student based in Denmark 🇩🇰. Currently, I'm diving deep into backend architecture, with a heavy focus on mastering **relational databases**, **SQL**, and **ER diagram modeling**.
 
+---
 
-<!---
-Dontosquare/Dontosquare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💻 What I'm Up To
+* 🗄️ **Focus:** Designing efficient database schemas & data models
+* 🎓 **Status:** Computer Science Student
+
+---
+
+### ⚡ Outside of Coding
+* 🏈 **Football:** Huge Raiders fan (Go Raiders! ☠️)
+* 🍳 **Cooking:** Love making Mediterranean dishes, especially Greek food 🇬🇷
+* 🎮 **Gaming:** Casual gamer in my downtime
+* 💑 **Life:** Quality time with my girlfriend
