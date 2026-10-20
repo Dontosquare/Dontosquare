@@ -1,4 +1,4 @@
-Hi, I'm Joachim! 👋
+# Hi, I'm Joachim! 👋
 
 I'm a 27-year-old Computer Science student based in Denmark. Currently, I'm diving deep into backend architecture, with a heavy focus on mastering **relational databases**, **SQL**, and **ER diagram modeling**.
 
